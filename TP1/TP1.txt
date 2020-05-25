@@ -1,0 +1,12 @@
+Partie 1 :
+	1) Les données étaient les pixels de l'image. Le tableau représente donc pour chaque pixel sont niveau de rouge, vert et bleu. X est de dimension (nb de pixels)*3. 
+
+	3) Les individus sont beaucoup plus dispersés lorsqu'ils sont projetés sur les deux premiers axes principaux.
+
+	4) On peut quantifier l’information contenue dans les q premières composantes principales à partir de la matrice Σ en faisant la somme des contrastes sur ces q composantes.
+                                                (la contraste conservé par q Composantes Principales est la somme des valeurs propres associés à ses composantes sur la trace de sigma)
+        6) On peut indentifier 6 classes d'individus dans ce jeu.
+
+        7) On peut identifier 6 classes de variables aussi notamment grâce a la symétrie de sigma
+        
+        8) On note que
